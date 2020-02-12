@@ -1,0 +1,18 @@
+{
+  "name": "technokon",
+  "version": "1.0.0",
+  "description": "public visitor site",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "serve": "node startServer"
+  },
+  "author": "Emil",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.13.7"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
